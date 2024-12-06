@@ -1,0 +1,11 @@
+[project]
+name = "minimem-profiler"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=24.10.0",
+    "memory-profiler>=0.61.0",
+    "ruff>=0.8.2",
+]
